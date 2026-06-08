@@ -7,11 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.9.0",
     "core-js": "^3.6.4",
     "leaflet": "^1.6.0",
     "vue": "^2.6.11",
-    "vue-axios": "^2.1.5",
+    "vue-axios": "^3.5.2",
     "vuex": "^3.1.2"
   },
   "devDependencies": {
